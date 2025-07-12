@@ -6,4 +6,4 @@
 ## 🪶 Features
 - **✨ Simple UI** - Lightweight and Mobile-friendly UI. Fits perfect on all screens.
 - **🤖 DecoderBrain** - Custom logic built without any heavy AI libraries
-- 
+- **🧠 SSDM (Super Small Data Model)** - Basic understanding by rounding User's message to the closest available data
