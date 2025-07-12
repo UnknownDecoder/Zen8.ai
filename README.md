@@ -12,4 +12,11 @@
 - `HTML`, `CSS`, `JavaScript` - **Frontend**
 - `Python` with `Flask` - **Backend**
 - **Render** - **Hosting the Brain Server**
-- **GitHub** - **For code and *Pages* for site hosting***
+- **GitHub** - **Source code + GitHub Pages for hosting Frontend**
+---
+## 🧪 Try It Now!
+- [Launch Zen8 in your browser](https://unknowndecoder.github.io/zen8.ai/)
+- (First reply may take some time to wake up the server. Sorry for the inconvenience)
+---
+## ⚠️ Disclaimer
+Zen8 is a fun, handcrafted chatbot. It doesn’t use real AI, APIs, or machine learning — just simple logic and a manually trained brain. Replies may be random or off-topic.
