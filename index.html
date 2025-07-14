@@ -31,26 +31,27 @@
     </nav>
 
     <div class="main">
-      <aside class="sidebar">
+        <aside class="sidebar">
         <!-- Placeholder for sidebar -->
 
-        <p class="txt">Dark Mode:</p>
-        <label class="label">
-    <div class="toggle">
-        <input class="toggle-state" type="checkbox" name="check" value="check">
-        <div class="indicator"></div>
-    </div>
+            <p class="txt">Dark Mode:</p>
+            <label class="label">
+            <div class="toggle">
+                <input class="toggle-state" type="checkbox" name="check" value="check">
+                <div class="indicator"></div>
+            </div>
       </label>
 
 
       </aside>
 
       <section class="chat-area">
-        <div id="messages" class="messages"></div>
-        <form id="chat-form" class="chat-form">
-          <input type="text" id="user-input" placeholder="Type a message..." required />
-          <button type="submit">Send</button>
-        </form>
+          <div id="messages" class="messages"></div>
+          <div class='chat-form'>
+              <input type="text" class="user-input" placeholder="Type a message..." required />
+              <button class='sendBtn' disabled>Send</button>
+          </div>
+        
       </section>
     </div>
 
